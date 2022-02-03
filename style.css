@@ -1,0 +1,36 @@
+.main{
+    width: 80%;
+}
+
+
+.listStyle{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+
+.btnStyle{ 
+    width: 80px;
+    height: 35px;
+    border-radius: 8px;
+    background-color: white ;
+    text-align: center;
+    font-size: 16px;
+  
+
+}
+
+.btnStyle:hover {
+    border-color: #000000;
+    background: #f7f7f7;
+    background-color: black;
+    color: white;
+}
+body{
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+li{
+    font-size: 24px;
+}

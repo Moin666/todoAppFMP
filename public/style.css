@@ -1,0 +1,31 @@
+.main{
+    width: 30%;
+}
+
+
+.listStyle{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+
+
+.btnStyle{ 
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  
+
+}
+
+.btnStyle:hover {
+    border-color: #000000;
+    background: #f7f7f7;
+}
